@@ -54,7 +54,7 @@ plt.show()
 
 
 
-\n
+
 <img width="417" alt="Screenshot 2023-12-26 174436" src="https://github.com/srishanth2006/Univariate-Linear-Regression/assets/150319470/37c9086d-cc0f-40da-8478-206914ced23f">
 
 
