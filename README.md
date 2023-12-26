@@ -50,7 +50,11 @@ plt.show()
 ```
 ## Output
 <img width="380" alt="Screenshot 2023-12-26 174416" src="https://github.com/srishanth2006/Univariate-Linear-Regression/assets/150319470/5f112b23-215e-4904-9dc0-4991a3321b18">
-```
+
+
+
+
+\n
 <img width="417" alt="Screenshot 2023-12-26 174436" src="https://github.com/srishanth2006/Univariate-Linear-Regression/assets/150319470/37c9086d-cc0f-40da-8478-206914ced23f">
 
 
